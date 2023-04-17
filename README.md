@@ -1,3 +1,2 @@
 # needwall 
-helping people ask for help
-helping people lend help
+This is a simple platform interface to help students in school communities receive support anonymously for social or academic challenges. 
